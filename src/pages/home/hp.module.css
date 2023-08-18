@@ -1,0 +1,11 @@
+.wrap{
+    width: 90%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.wrap img{
+    margin: 0 auto;
+}
